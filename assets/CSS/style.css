@@ -1,0 +1,22 @@
+#mainpage {
+	background-image: url("../images/cloudy-day.png");
+
+}
+
+.addborder {
+	background-color: #F8F8F8;	
+    border-radius:9px;
+	padding: 10px 10px 10px 10px;
+	box-shadow: 3px 3px 5px #606060;
+}
+
+
+.imagepadding {
+	padding: 10px 10px 10px 10px;
+}
+
+h4 {
+    text-align: center;
+}
+
+
